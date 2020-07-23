@@ -1,16 +1,29 @@
 ### Hi there 👋
+Gabriela Mendes Front End Developer here 🙋‍♀️
 
-<!--
-**Kappyh/Kappyh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Besides my currently fulltime work in BBI Solutions, I'm working in two personal projects, one of them is the **AlugaQuadra** for my friend owner from **[BoleiroFC](https://www.boleirofc.com.br/public/)** and the other one is FindMyBird with my other friend [@RodolphoLipovscek](https://github.com/rlipovscek)
 
-Here are some ideas to get you started:
+**More about me:**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently working on *BBI Solutions* in São Paulo, Brazil.
+
+📖 Studying on IGTI, MBA Full Stack Course.
+
+📖 Studying on Rocketseat, GoStack Bootcamp.
+
+📖 Studying on howBootcamps, Ux Design Bootcamp.
+
+🌱 I’m currently learning React, React Native and Flutter.
+
+👯 I’m looking to collaborate on **React Native, React or Flutter projects**
+
+💬 Ask me about Angular, Typescript, VueJS or PWA
+
+✔ **Available for freelance job**
+
+📫 How to reach me: contato@gabrielamendes.dev (Please don't send spams)
+
+⚡ Fun fact:I love birds, puppies, cars and videogames.
+
+
+*"learning is an endless journey"*

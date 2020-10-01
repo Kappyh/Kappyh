@@ -5,13 +5,11 @@ Besides my currently fulltime work in BBI Solutions, I'm working in two personal
 
 **More about me:**
 
-🔭 I’m currently working on *BBI Solutions* in São Paulo, Brazil.
+🔭 I’m currently working on *Memed* in São Paulo, Brazil.
 
 📖 Studying on IGTI, MBA Full Stack Course.
 
 📖 Studying on Rocketseat, GoStack Bootcamp.
-
-📖 Studying on howBootcamps, Ux Design Bootcamp.
 
 🌱 I’m currently learning React, React Native and Flutter.
 

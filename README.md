@@ -11,7 +11,7 @@ Besides my currently fulltime work in BBI Solutions, I'm working in two personal
 
 📖 Studying on Rocketseat, GoStack Bootcamp.
 
-🌱 I’m currently learning React, React Native and Flutter.
+🌱 I’m currently learning React, PHP and Flutter.
 
 👯 I’m looking to collaborate on **React Native, React or Flutter projects**
 
@@ -23,6 +23,5 @@ Besides my currently fulltime work in BBI Solutions, I'm working in two personal
 
 ⚡ Fun fact:I love birds, puppies, cars and videogames.
 
-[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/kappyh)
 
 *"learning is an endless journey"*

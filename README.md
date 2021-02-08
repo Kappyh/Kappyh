@@ -1,7 +1,7 @@
 ### Hi there 👋
 Gabriela Mendes Front End Developer here 🙋‍♀️
 
-Besides my currently fulltime work in [Memed](https://memed.com.br/), I'm working in two personal projects, one of them is the **AlugaQuadra** for my friend owner from **[BoleiroFC](https://www.boleirofc.com.br/public/)** and the other one is **FindMyBird** with my other friend [@RodolphoLipovscek](https://github.com/rlipovscek)
+Besides my currently fulltime work in [Memed](https://memed.com.br/), I'm currently working in one personal project **FindMyBird** with my other friend [@RodolphoLipovscek](https://github.com/rlipovscek)
 
 **More about me:**
 

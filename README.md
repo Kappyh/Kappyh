@@ -23,5 +23,6 @@ Besides my currently fulltime work in [Memed](https://memed.com.br/), I'm workin
 
 ⚡ Fun fact:I love birds, puppies, cars and videogames.
 
+#### [DEV.TO BLOG](https://dev.to/kappyh)
 
 *"learning is an endless journey"*

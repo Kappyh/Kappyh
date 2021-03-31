@@ -13,7 +13,7 @@ Besides my currently fulltime work in [Memed](https://memed.com.br/), I'm workin
 
 🌱 I’m currently learning React, PHP and Flutter.
 
-👯 I’m looking to collaborate on **React Native, React or Flutter projects**
+👯 I’m looking to collaborate on **React Native, React, Electron, Angular or Flutter projects**
 
 💬 Ask me about Angular, Typescript, VueJS or PWA
 

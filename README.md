@@ -9,15 +9,11 @@ Besides my currently fulltime work in [Memed](https://memed.com.br/), I'm workin
 
 📖 Studying on IGTI, MBA Full Stack Course.
 
-📖 Studying on Rocketseat, GoStack Bootcamp.
-
 🌱 I’m currently learning React, PHP and Flutter.
 
 👯 I’m looking to collaborate on **React Native, React, Electron, Angular or Flutter projects**
 
-💬 Ask me about Angular, Typescript, VueJS or PWA
-
-✔ **Available for freelance job**
+:white_check_mark: **Available for freelance job**
 
 📫 How to reach me: contato@gabrielamendes.dev (Please don't send spams)
 

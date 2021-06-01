@@ -1,8 +1,6 @@
 ### Hi there 👋
 Gabriela Mendes Front End Developer here 🙋‍♀️
 
-Besides my currently fulltime work in [Memed](https://memed.com.br/), I'm working in one personal project **FindMyBird** with my other friend [@RodolphoLipovscek](https://github.com/rlipovscek)
-
 **More about me:**
 
 🔭 I’m currently working on *Memed* in São Paulo, Brazil.

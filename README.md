@@ -7,9 +7,9 @@ Gabriela Mendes Front End Developer here 🙋‍♀️
 
 📖 Studying on IGTI, MBA Full Stack Course.
 
-🌱 I’m currently learning React, PHP and Flutter.
+🌱 I’m currently learning React Native.
 
-👯 I’m looking to collaborate on **React Native, React, Electron, Angular or Flutter projects**
+👯 I’m looking to collaborate on **React Native, React, Angular, Vanilla** projects
 
 :white_check_mark: **Available for freelance job**
 

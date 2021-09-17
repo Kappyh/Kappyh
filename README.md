@@ -9,7 +9,7 @@ Working with development for more then 6 years.
 
 📖 Studying on IGTI, MBA Full Stack Course.
 
-🌱 I’m currently learning React Native.
+🌱 I’m currently learning PHP and Python.
 
 👯 I’m looking to collaborate on **React Native, React, Angular, Vanilla** projects
 

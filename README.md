@@ -1,7 +1,7 @@
 ### Hi there 👋
 Gabriela Mendes Front End Developer here 🙋‍♀️
 
-Working with development for more then 6 years.
+Working with development for more then 7 years.
 
 **More about me:**
 

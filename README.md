@@ -1,15 +1,15 @@
 ### Hi there 👋
-Gabriela Mendes Front End Developer here 🙋‍♀️
+Gabriela Mendes FullStack Developer here 🙋‍♀️
 
 Working with development for more then 7 years.
 
 **More about me:**
 
-🔭 I’m currently working on *Memed* the best heathtech to work in Brazil.
+🔭 I’m currently working on *GlobalHitss* on the Claro Digital Operations projects.
 
-📖 Studying on IGTI, MBA Full Stack Course.
+📖 MBA in FullStack Development, IGTI.
 
-🌱 I’m currently learning PHP and Python.
+🌱 I’m currently NestJS and React Native.
 
 👯 I’m looking to collaborate on **React Native, React, Angular, Vanilla** projects
 

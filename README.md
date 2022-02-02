@@ -9,7 +9,7 @@ Working with development for more then 7 years.
 
 📖 MBA in FullStack Development, IGTI.
 
-🌱 I’m currently NestJS and React Native.
+🌱 I’m currently learning NestJS and Android Development.
 
 👯 I’m looking to collaborate on **React Native, React, Angular, Vanilla** projects
 

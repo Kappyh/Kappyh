@@ -11,7 +11,7 @@ I love create new things with code and I think solving people problems with tech
 
 📖 MBA in FullStack Development, IGTI.
 
-🌱 I’m currently learning NestJS and Android Development.
+🌱 I’m currently learning Python and Android Development.
 
 ⚡ Fun fact:I love birds, puppies, fish, cars and videogames.
 <br/>

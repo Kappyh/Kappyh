@@ -7,7 +7,7 @@ I love create new things with code and I think solving people problems with tech
 
 ### A little about me:
 
-🔭 I’m currently working on *Salú* startup as a Specialist Software Developer.
+🔭 I’m currently working on *Porto Seguro* as a Fullstack Software Developer.
 
 📖 MBA in FullStack Development, IGTI.
 

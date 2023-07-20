@@ -1,17 +1,18 @@
 ### Hi there 👋
 Gabriela Mendes FullStack Developer here 🙋‍♀️
 
-Working with development for more then **7 years**.  
+Working with development for more then **8 years**.  
 I love create new things with code and I think solving people problems with technology can turn the world a better place.
 
 
 ### A little about me:
 
-🔭 I’m currently working on *Porto Seguro* as a Fullstack Developer.
+🔭 I’m currently working on *ViralTech* as a Fullstack Developer.
 
 📖 MBA in FullStack Development, IGTI.
+📖 MBA in Mobile Development, IGTI.
 
-🌱 I’m currently learning Python and React Native.
+🌱 I’m currently learning Android(Native) and React Native.
 
 ⚡ Fun fact:I love birds, puppies, fish, cars and videogames.
 <br/>

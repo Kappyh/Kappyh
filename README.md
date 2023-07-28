@@ -12,7 +12,7 @@ I love create new things with code and I think solving people problems with tech
 📖 MBA in FullStack Development, IGTI.
 📖 MBA in Mobile Development, IGTI.
 
-🌱 I’m currently learning Android(Native) and React Native.
+🌱 I’m currently learning Android(Native) and iOS Development.
 
 ⚡ Fun fact:I love birds, puppies, fish, cars and videogames.
 <br/>

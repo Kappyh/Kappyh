@@ -10,9 +10,9 @@ I love create new things with code and I think solving people problems with tech
 🔭 I’m currently working on *ViralTech* as a Fullstack Developer.
 
 📖 MBA in FullStack Development, IGTI.
-📖 MBA in Mobile Development, IGTI.
+📖 MBA in Mobile Development, Estácio.
 
-🌱 I’m currently learning Android(Native) and iOS Development.
+🌱 I’m currently learning Android and iOS Developmen (both native).
 
 ⚡ Fun fact:I love birds, puppies, fish, cars and videogames.
 <br/>

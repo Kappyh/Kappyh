@@ -1,25 +1,31 @@
 ### Hi there 👋
-Gabriela Mendes FullStack Developer here 🙋‍♀️
+Gabriela Mendes here 🙋‍♀️
 
-Working with development for more then **8 years**.  
+Working with development for more then **9 years**.  
 I love create new things with code and I think solving people problems with technology can turn the world a better place.
 
 
 ### A little about me:
 
-🔭 I’m currently working on *ViralTech* as a Fullstack Developer.
+🔭 I’m currently working on *ViralTech* as a Specialist Software Engineer, with the stack NodeJS(NestJs), React and Amazon AWS (Dynamodb, CloudWatch, S3, ECS, EC2, IAM).<br/>
+My side projects are focused in mobile development with Android(Kotlin) and React Native.
 
-📖 MBA in FullStack Development, IGTI.
-📖 MBA in Mobile Development, Estácio.
+### Education
 
-🌱 I’m currently learning Android and iOS Developmen (both native).
-
-⚡ Fun fact:I love birds, puppies, fish, cars and videogames.
+📖 MBA in FullStack Development, IGTI. (done) 
 <br/>
+📖 Bootcamp in Mobile Development, XPE Educação. (done)
+
 <br/>
 
 <div>
-  
+
+### My own apps
+
+<a href="https://play.google.com/store/apps/developer?id=ViralTech"></a>![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
+
+<br/>
+
 ### Social and contacts:
   <a href="https://twitter.com/Kappyh"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/gabrielamendesp/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>

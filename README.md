@@ -16,15 +16,11 @@ My side projects are focused in mobile development with Android(Kotlin) and Reac
 <br/>
 📖 Bootcamp in Mobile Development, XPE Educação. (done)
 
-<br/>
-
 <div>
 
 ### My own apps
 
 <a href="https://play.google.com/store/apps/developer?id=ViralTech"></a>![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
-
-<br/>
 
 ### Social and contacts:
   <a href="https://twitter.com/Kappyh"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
@@ -32,8 +28,6 @@ My side projects are focused in mobile development with Android(Kotlin) and Reac
   <a href="mailto:contato@gabrielamendes.dev"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://dev.to/kappyh"> <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 </div>
-
-<br/>
 
 <div>
   

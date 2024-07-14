@@ -20,7 +20,7 @@ My side projects are focused in mobile development with Android(Kotlin) and Reac
 
 ### My own apps
 
-<a href="https://play.google.com/store/apps/developer?id=ViralTech"></a>![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)
+<a href="https://play.google.com/store/apps/developer?id=ViralTech">![Google Pay](https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)</a>
 
 ### Social and contacts:
   <a href="https://twitter.com/Kappyh"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>

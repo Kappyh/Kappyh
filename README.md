@@ -8,7 +8,7 @@ I love create new things with code and I think solving people problems with tech
 ### A little about me:
 
 🔭 I’m currently working on *ViralTech* as a Specialist Software Engineer, with the stack NodeJS(NestJs), React and Amazon AWS (Dynamodb, CloudWatch, S3, ECS, EC2, IAM).<br/>
-My side projects are focused in mobile development with Android(Kotlin) and React Native, and Bot automation.
+My side projects are focused in mobile development with Android(Kotlin) and Bot automation.
 
 ### Education
 

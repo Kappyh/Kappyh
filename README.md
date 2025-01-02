@@ -1,7 +1,7 @@
 ### Hi there 👋
 Gabriela Mendes here 🙋‍♀️
 
-Working with development for more then **9 years**.  
+Working with development for more then **10 years**.  
 I love create new things with code and I think solving people problems with technology can turn the world a better place.
 
 
@@ -15,7 +15,7 @@ I love create new things with code and I think solving people problems with tech
 <br/>
 📖 Bootcamp in Mobile Development, XPE Educação. (done)
 <br/>
-📖 MBA Architecture FullCycle, FullCycle. (in progress)
+📖 MBA Architecture FullCycle, FullCycle. (in progress, ends 2026/08)
 
 <div>
 
